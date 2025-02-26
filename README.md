@@ -11,15 +11,7 @@
 * Design, implement, and test a small system.
 
 ## Time Line 
-You have about four weeks to complete the assignment. **Start right away!** 
-
-**The lab TA will expect that you already have most of that week's work completed. Come with prepared questions and
-be prepared to answer the TA's questions about your code. You may leave the lab early if you can show the TA that you have finished the work stated below.**
-
-* Week 1: Implement the DSString class so you are able to perform basic string operations. There is already a test file with a main function in the repository. Test with `valgrind` to make sure you do not have memory leaks. **Deliverables: DSString class + tests.**
-* Week 2: Design your system using a UML class diagram! Think how tweets, words, counters, the classification model, etc can be represented. Implement tokenization (breaking the string in to words). **Deliverables: UML diagram, tokenization algorithm with tests.** 
-* Week 3: Implement model training, classification, and accuracy calculation (see details below). **Deliverables:  SentimentClassifier class and main function to perform classification.** 
-* Week 4: Finish and clean up your code. Improve comments in code. Answering the questions in the Answers section of this document. **Deliverable: Completed `Answers.md` and assignment submission.**
+You have a limited number of weeks to complete the assignment. **Start right away!** 
 
 ## Introduction
 Have you ever read a tweet and thought, “Gee, what a positive outlook!” or “Wow, why so negative, friend?”  Can computers make the same determination?  They can surely try!
